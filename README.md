@@ -7,5 +7,5 @@ The dataset can be downloaded from <a href="https://www.kaggle.com/datasets/aman
 
 This repository includes implementations of the following models:
 
-Multinomial Naive Bayes Classifier - `90% accuracy`
-BERT Transformer - `94% accuracy`
+1. Multinomial Naive Bayes Classifier - `90% accuracy`
+2. BERT Transformer - `94% accuracy`
